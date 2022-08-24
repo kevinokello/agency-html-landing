@@ -3,7 +3,7 @@
 :root{
     --montserrat-font: 'Montserrat', sans-serif;
     --poppins-font: 'Poppins', sans-serif;
-    --yellow-orange-color: #f5961d;
+    --yellow-orange-color: #ff6347;
     --old-lace-color: #fdf5ea;
     --red-color: #ff6347;
     --gray-color: #f2f2f2;
@@ -90,8 +90,8 @@ img{
     font-weight: 600;
     font-size: 2rem;
     background-color: var(--yellow-orange-color);
-    background-image: -o-linear-gradient(28deg, #f5961d 0%, #ff6347 100%);
-    background-image: linear-gradient(62deg, #f5961d 0%, #ff6347 100%);
+    background-image: -o-linear-gradient(28deg, #ff6347 0%, #ff6347 100%);
+    background-image: linear-gradient(62deg, #ff6347 0%, #ff6347 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
