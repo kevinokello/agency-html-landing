@@ -94,7 +94,7 @@ img {
 }
 .navbar-brand span {
   font-weight: 600;
-  font-size: 2rem;
+  font-size: 3rem;
   background-color: var(--yellow-orange-color);
   background-image: -o-linear-gradient(28deg, #11284f 0%, #11284f 100%);
   background-image: linear-gradient(62deg, #11284f 0%, #11284f 100%);
