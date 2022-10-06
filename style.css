@@ -96,8 +96,8 @@ img {
   font-weight: 600;
   font-size: 3rem;
   background-color: var(--yellow-orange-color);
-  background-image: -o-linear-gradient(28deg, #11284f 0%, #11284f 100%);
-  background-image: linear-gradient(62deg, #11284f 0%, #11284f 100%);
+  background-image: -o-linear-gradient(28deg, #82CEFD0%, #82CEFD100%);
+  background-image: linear-gradient(62deg, #82CEFD0%, #82CEFD100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -109,7 +109,6 @@ img {
 }
 .navbar-toggler img {
   width: 24px;
-  
 }
 .navbar-toggler:hover {
   opacity: 0.8;
@@ -145,7 +144,6 @@ img {
   margin: 2rem 0;
 }
 .nav-link {
-
   letter-spacing: 1px;
   color: rgb(0, 0, 0);
   display: inline-block;
@@ -350,7 +348,6 @@ img {
   margin-top: 1.2rem;
 }
 .feature-item:nth-child(2) {
-  
   background-color: var(--dark-color);
 }
 .feature-item:nth-child(3) {
